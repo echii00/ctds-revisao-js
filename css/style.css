@@ -1,0 +1,21 @@
+*{
+    padding:0px;
+    box-sizing: 0px;
+    margin:0px;
+}
+
+.conteudo{
+    color: brown;
+    text-align: center;
+    margin: 15px;
+    box-sizing: border-box;
+    background-color: bisque;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+
+}
+.paragrafo{
+
+    color: blue;
+}
